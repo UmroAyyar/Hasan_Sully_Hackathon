@@ -1,0 +1,124 @@
+customer_type,is_repeated_guest,market_segment,distribution_channel,guest_id
+Transient,0,Direct,Direct,1
+Transient,0,Corporate,Corporate,2
+Transient,0,Online TA,TA/TO,3
+Transient,0,Offline TA/TO,TA/TO,4
+Contract,0,Offline TA/TO,TA/TO,5
+Transient-Party,0,Offline TA/TO,TA/TO,6
+Transient,0,Complementary,Direct,7
+Transient-Party,0,Online TA,TA/TO,8
+Transient-Party,0,Direct,Direct,9
+Transient,0,Direct,TA/TO,10
+Transient-Party,0,Groups,Direct,11
+Transient,0,Groups,Direct,12
+Group,0,Online TA,TA/TO,13
+Transient-Party,0,Groups,Corporate,14
+Transient,0,Groups,Corporate,15
+Transient,0,Offline TA/TO,Direct,16
+Transient-Party,0,Groups,TA/TO,17
+Transient-Party,0,Corporate,Direct,18
+Transient,0,Corporate,Direct,19
+Group,0,Direct,Direct,20
+Transient-Party,0,Direct,TA/TO,21
+Group,0,Offline TA/TO,TA/TO,22
+Transient-Party,0,Corporate,Corporate,23
+Transient,0,Groups,TA/TO,24
+Contract,0,Corporate,Corporate,25
+Contract,0,Direct,Direct,26
+Transient,0,Complementary,TA/TO,27
+Contract,0,Groups,Corporate,28
+Transient,0,Complementary,Corporate,29
+Transient,0,Direct,Corporate,30
+Transient-Party,0,Complementary,TA/TO,31
+Transient-Party,0,Corporate,TA/TO,32
+Transient,0,Online TA,Direct,33
+Transient,1,Complementary,TA/TO,34
+Group,0,Direct,TA/TO,35
+Transient,0,Online TA,Corporate,36
+Transient,0,Corporate,TA/TO,37
+Transient,0,Direct,Undefined,38
+Group,0,Groups,TA/TO,39
+Contract,1,Offline TA/TO,TA/TO,40
+Transient,1,Online TA,TA/TO,41
+Transient,1,Direct,Direct,42
+Transient,1,Offline TA/TO,TA/TO,43
+Transient,1,Corporate,Corporate,44
+Transient,1,Direct,TA/TO,45
+Group,1,Online TA,TA/TO,46
+Group,1,Offline TA/TO,TA/TO,47
+Transient,1,Online TA,Direct,48
+Transient-Party,1,Online TA,Direct,49
+Transient-Party,1,Groups,Direct,50
+Transient-Party,1,Groups,Corporate,51
+Transient-Party,1,Corporate,Corporate,52
+Group,0,Groups,Direct,53
+Transient-Party,1,Complementary,TA/TO,54
+Transient-Party,1,Offline TA/TO,Direct,55
+Transient-Party,1,Groups,TA/TO,56
+Transient,1,Complementary,Direct,57
+Group,1,Corporate,Corporate,58
+Group,1,Groups,TA/TO,59
+Transient-Party,1,Online TA,TA/TO,60
+Contract,1,Complementary,Corporate,61
+Transient-Party,1,Complementary,Corporate,62
+Transient,1,Complementary,Corporate,63
+Transient,1,Corporate,Direct,64
+Transient-Party,1,Direct,Direct,65
+Transient-Party,1,Complementary,Direct,66
+Transient,1,Direct,Corporate,67
+Contract,0,Online TA,TA/TO,68
+Transient,1,Groups,Corporate,69
+Transient,1,Groups,Direct,70
+Transient-Party,1,Offline TA/TO,TA/TO,71
+Transient,1,Corporate,TA/TO,72
+Transient,1,Offline TA/TO,Direct,73
+Group,1,Direct,Direct,74
+Transient,1,Online TA,Corporate,75
+Transient,1,Offline TA/TO,Corporate,76
+Transient-Party,1,Direct,Corporate,77
+Group,1,Online TA,Direct,78
+Group,1,Offline TA/TO,Corporate,79
+Group,1,Corporate,TA/TO,80
+Transient-Party,1,Direct,TA/TO,81
+Group,1,Direct,TA/TO,82
+Transient-Party,1,Corporate,Direct,83
+Contract,1,Offline TA/TO,Direct,84
+Group,0,Corporate,Corporate,85
+Transient-Party,0,Direct,Corporate,86
+Transient,0,Offline TA/TO,Corporate,87
+Group,0,Online TA,Direct,88
+Group,1,Direct,Corporate,89
+Transient-Party,0,Complementary,Corporate,90
+Transient-Party,1,Online TA,Corporate,91
+Group,0,Corporate,Direct,92
+Contract,0,Groups,TA/TO,93
+Transient-Party,0,Online TA,Direct,94
+Transient-Party,0,Undefined,Undefined,95
+Transient-Party,0,Direct,Undefined,96
+Contract,0,Online TA,Direct,97
+Transient-Party,0,Online TA,Undefined,98
+Transient,0,Online TA,GDS,99
+Transient-Party,0,Aviation,Corporate,100
+Transient,0,Aviation,Corporate,101
+Transient,0,Offline TA/TO,GDS,102
+Transient-Party,0,Offline TA/TO,Corporate,103
+Transient-Party,0,Offline TA/TO,Direct,104
+Transient-Party,0,Complementary,Direct,105
+Contract,1,Groups,TA/TO,106
+Contract,1,Online TA,Direct,107
+Group,1,Corporate,Direct,108
+Contract,1,Online TA,TA/TO,109
+Transient,1,Groups,TA/TO,110
+Group,0,Complementary,Direct,111
+Group,1,Complementary,Direct,112
+Transient,0,Aviation,TA/TO,113
+Transient,1,Aviation,TA/TO,114
+Transient,1,Offline TA/TO,GDS,115
+Transient,1,Aviation,Corporate,116
+Contract,0,Complementary,Direct,117
+Transient,0,Direct,GDS,118
+Transient-Party,1,Aviation,Corporate,119
+Group,0,Complementary,TA/TO,120
+Transient,1,Online TA,GDS,121
+Transient-Party,1,Offline TA/TO,Corporate,122
+Group,0,Aviation,Corporate,123
